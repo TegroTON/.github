@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: API issue
+    url: https://tegro.money/docs/
+    about: Any bug report or feature request affecting more than only Tegro.
+  - name: Issue of other client
+    url: https://tegro.io/
+    about: Any bug report or feature request not about Tegro.
+  - name: Question
+    url: https://t.me/tegro_bot
+    about: Ask a question.
