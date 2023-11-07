@@ -6,7 +6,7 @@ Welcome to our GitHub — Web3 projects by Tegro!
 - [Twitter — Breaking News](https://twitter.com/TegroTON)
 - [Instagram — Our Team](https://www.instagram.com/tegromoney/)
 - [Telegram — Community](https://t.me/TegroMoney)
-- [Telegram — Other News](https://t.me/TegroMoney)
+- [Telegram — Other News](https://t.me/Tegro_Money)
 - [VK — Community](https://vk.com/tegro)
 - [Figma — Portfolio](https://www.figma.com/@tegro)
 - [Medium — Blog](https://tegro.medium.com/)
