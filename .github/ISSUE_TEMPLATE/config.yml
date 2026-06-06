@@ -4,7 +4,7 @@ contact_links:
     url: https://tegro.money/docs/
     about: Any bug report or feature request affecting more than only Tegro.
   - name: Issue of other client
-    url: https://tegro.io/
+    url: https://tegro.money/
     about: Any bug report or feature request not about Tegro.
   - name: Question
     url: https://t.me/tegro_bot
