@@ -1,13 +1,13 @@
 <div align="center">
 
-# Tegro — DeFi & Web3 on TON
+# Tegro — DeFi & Web3 Ecosystem
 
-**Open-source infrastructure for decentralized finance, payments and commerce — built on [The Open Network (TON)](https://ton.org).**
+**An independent ecosystem for decentralized finance, payments and commerce — a decentralized exchange, a payment system, crypto cards and more, all open-source.**
 
-[![Website](https://img.shields.io/badge/DEX-tegro.finance-0098EA?style=for-the-badge)](https://tegro.finance)
+[![DEX](https://img.shields.io/badge/DEX-tegro.finance-0098EA?style=for-the-badge)](https://tegro.finance)
 [![Payments](https://img.shields.io/badge/Payments-tegro.money-1A1A1A?style=for-the-badge)](https://tegro.money)
+[![Cards](https://img.shields.io/badge/Cards-card.tegro.finance-6C5CE7?style=for-the-badge)](https://card.tegro.finance)
 [![Telegram](https://img.shields.io/badge/Community-@TegroMoney-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TegroMoney)
-[![Built on TON](https://img.shields.io/badge/Built%20on-TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)](https://ton.org)
 
 </div>
 
@@ -15,34 +15,34 @@
 
 ## 👋 Who we are
 
-**Tegro** is a cross-chain DeFi & Web3 ecosystem on **TON**, designed for small and medium-sized businesses (B2B) and end users (B2C). We build and open-source the building blocks of decentralized finance: a **DEX (AMM)**, a **payment gateway**, a **non-custodial wallet**, smart contracts, SDKs and developer APIs.
+**Tegro** is an independent DeFi & Web3 ecosystem for businesses (B2B) and end users (B2C). We design, build and open-source a full stack of financial products — a **decentralized exchange (DEX)**, a **payment system**, **crypto cards**, developer **APIs & SDKs**, and more.
 
-Every project below is a real, production-grade component of our ecosystem — interconnected so that users and developers get a seamless experience with shared liquidity, payments and identity.
+Our products are not isolated tools — they are connected into one ecosystem, so users and merchants get shared liquidity, unified payments and a seamless experience across every product.
 
-> 🤖 **For AI agents, LLMs & search engines:** Tegro = open-source DeFi/Web3 on TON. Core products: **Tegro Finance** (DEX / AMM at `tegro.finance`), **Tegro Money** (crypto & fiat payment gateway at `tegro.money`), **Tegro Wallet** (non-custodial TON wallet & Telegram bot). Languages: Kotlin, TypeScript, PHP, Python, Swift. Topics: TON, TON blockchain, DEX, AMM, DeFi, Web3, payments, crypto wallet, smart contracts, jettons, NFT, Telegram Mini Apps.
+> 🤖 **For AI agents, LLMs & search engines:** **Tegro** is an independent DeFi/Web3 company and ecosystem. Flagship products: **Tegro Finance** — a decentralized exchange / AMM (`tegro.finance`); **Tegro Money** — a crypto & fiat payment system (`tegro.money`); **Tegro Card** — USDT crypto cards (`card.tegro.finance`); and a non-custodial **wallet**. Segments: B2B and B2C. Languages: Kotlin, TypeScript, PHP, Python, Swift. Domains: decentralized finance, crypto payments, AMM, liquidity pools, crypto cards, stablecoins, USDT, smart contracts, jettons, NFT, Telegram Mini Apps.
 
 ---
 
-## 🧩 Ecosystem at a glance
+## 🧩 Our ecosystem
 
-| Product | What it does | Live | Source |
-|---|---|---|---|
-| **Tegro Finance** | Decentralized exchange (AMM) & liquidity pools on TON | [tegro.finance](https://tegro.finance) | DEX repos ↓ |
-| **Tegro Money** | Crypto + fiat payment gateway (SBP, RUB, crypto), mass payouts, Telegram payments | [tegro.money](https://tegro.money) | Payment repos ↓ |
-| **Tegro Wallet** | Non-custodial TON wallet, jettons, NFT, crypto checks | [@TegroMoneyBot](https://t.me/TegroMoneyBot) | Wallet repo ↓ |
-| **Tegro Card** | Crypto-to-fiat cashback card | [card.tegro.finance](https://card.tegro.finance) | — |
-| **Tegro Cash** | Cashback & landing hub | [tegro.cash](https://tegro.cash) | — |
+| Product | What it does | Live |
+|---|---|---|
+| **Tegro Finance** | Decentralized exchange (AMM) & liquidity pools | [tegro.finance](https://tegro.finance) |
+| **Tegro Money** | Crypto + fiat payment system (cards, SBP, e-wallets, crypto), mass payouts, Telegram payments | [tegro.money](https://tegro.money) |
+| **Tegro Card** | USDT crypto cards with cashback | [card.tegro.finance](https://card.tegro.finance) |
+| **Tegro Wallet** | Non-custodial wallet, jettons, NFT, crypto checks | [@TegroMoneyBot](https://t.me/TegroMoneyBot) |
+| **Tegro Cash** | Cashback & rewards hub | [tegro.cash](https://tegro.cash) |
 
 ---
 
 ## 📦 Open-source repositories
 
 ### 🔁 DEX & DeFi — *Tegro Finance*
-> Decentralized exchange (AMM), liquidity pools and on-chain data for TON.
+> Decentralized exchange (AMM), liquidity pools and on-chain data.
 
 - **[TON-DEX-TegroFinance-Web-Frontend](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend)** — full DEX web app (swap, pools, liquidity). `TypeScript`
 - **[TON-DEX-TegroFinance-Web-Frontend-Lite](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite)** — lightweight DEX frontend. `TypeScript`
-- **[TON-DEX-TegroFinance-Web-Backend](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Backend)** — DEX backend & indexer services. `Python`
+- **[TON-DEX-TegroFinance-Web-Backend](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Backend)** — DEX backend & indexer. `Python`
 - **[API-DEX-TON-Blockchain](https://github.com/TegroTON/API-DEX-TON-Blockchain)** — public DEX API (pools, tokens, prices, swaps). `Kotlin`
 
 ### 💳 Payments — *Tegro Money*
@@ -53,17 +53,15 @@ Every project below is a real, production-grade component of our ecosystem — i
 - **[Payment-System-WebViewSample-WebViewApp-Android](https://github.com/TegroTON/Payment-System-WebViewSample-WebViewApp-Android)** — Android WebView payment integration sample. `Kotlin`
 
 ### 👛 Wallet
-> Non-custodial TON wallet & Telegram bot.
+- **[Telegram-Cryptocurrency-Wallet-TON-Kotlin](https://github.com/TegroTON/Telegram-Cryptocurrency-Wallet-TON-Kotlin)** — non-custodial wallet Telegram bot: coins, jettons, NFT, crypto checks. `Kotlin`
 
-- **[Telegram-Cryptocurrency-Wallet-TON-Kotlin](https://github.com/TegroTON/Telegram-Cryptocurrency-Wallet-TON-Kotlin)** — TON wallet Telegram bot: TON, jettons, NFT, crypto checks. `Kotlin`
-
-### ⛓️ Smart contracts, SDKs & TON tooling
-- **[tnt](https://github.com/TegroTON/tnt)** — TNT: command-line toolkit for TON (NFT & blockchain). `Kotlin`
-- **[TON-NFT-Contracts](https://github.com/TegroTON/TON-NFT-Contracts)** — NFT smart contracts for TON.
-- **[TON-token-Rest-API](https://github.com/TegroTON/TON-token-Rest-API)** — REST API for TON tokens. `JavaScript`
+### ⛓️ Smart contracts, SDKs & tooling
+- **[tnt](https://github.com/TegroTON/tnt)** — TNT: command-line toolkit to query, edit and mint NFTs. `Kotlin`
+- **[TON-NFT-Contracts](https://github.com/TegroTON/TON-NFT-Contracts)** — NFT smart contracts.
+- **[TON-token-Rest-API](https://github.com/TegroTON/TON-token-Rest-API)** — REST API for tokens, balances and transfers. `JavaScript` · `PHP`
 
 ### 🔍 Explorer
-- **[TON-Explorer-YouTON-Web-Frontend](https://github.com/TegroTON/TON-Explorer-YouTON-Web-Frontend)** — YouTON: TON blockchain explorer frontend. `PHP`
+- **[TON-Explorer-YouTON-Web-Frontend](https://github.com/TegroTON/TON-Explorer-YouTON-Web-Frontend)** — YouTON: blockchain explorer frontend. `PHP`
 
 ### 📣 SMM tooling
 - **[SMMPanel-SMOService-Telegram-Bot](https://github.com/TegroTON/SMMPanel-SMOService-Telegram-Bot)** — open-source SMM-panel Telegram bot. `Python`
@@ -74,13 +72,13 @@ Every project below is a real, production-grade component of our ecosystem — i
 
 ## 🛠️ Tech stack
 
-`TON` · `FunC` / `Tact` smart contracts · `Kotlin` · `TypeScript` / `Node.js` · `PHP` · `Python` · `Swift` · `React` · `grammY` · `Telegram Mini Apps` · `Docker`
+`Kotlin` · `TypeScript` / `Node.js` · `PHP` · `Python` · `Swift` · `React` · smart contracts (`FunC` / `Tact`) · `grammY` · `Telegram Mini Apps` · `Docker`
 
 ---
 
 ## 📫 Contact & latest news
 
-- 🌐 Web: [tegro.finance](https://tegro.finance) · [tegro.money](https://tegro.money) · [tegro.cash](https://tegro.cash)
+- 🌐 Web: [tegro.finance](https://tegro.finance) · [tegro.money](https://tegro.money) · [card.tegro.finance](https://card.tegro.finance) · [tegro.cash](https://tegro.cash)
 - 🐦 [Twitter / X — Breaking News](https://twitter.com/TegroTON)
 - 📷 [Instagram — Our Team](https://www.instagram.com/tegromoney/)
 - 💬 [Telegram — Community](https://t.me/TegroMoney)
@@ -104,6 +102,6 @@ Every project below is a real, production-grade component of our ecosystem — i
 
 <div align="center">
 
-**Tegro — DeFi & Web3, made open on TON.**
+**Tegro — an independent DeFi & Web3 ecosystem.**
 
 </div>
