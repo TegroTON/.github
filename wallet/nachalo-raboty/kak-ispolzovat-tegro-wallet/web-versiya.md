@@ -5,7 +5,7 @@ description: Как использовать кошелек в web-версии
 # Web-версия
 
 {% hint style="success" %}
-Вы можете пользоваться веб-версией Tegro Wallet, которая доступна на сайте [tegro.io/wallet](https://tegro.io/wallet/).
+Вы можете пользоваться веб-версией Tegro Wallet, которая доступна на сайте [tegro.finance/wallet](https://tegro.finance/wallet/).
 {% endhint %}
 
 Веб-версия Tegro Wallet предоставляет полный функционал приложения, включая возможность отправки, получения и хранения кастомных токенов на TON, монет TON и использования функционала TON DNS.&#x20;
